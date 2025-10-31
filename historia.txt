@@ -1,5 +1,14 @@
 Hola heroe
+<<<<<<< HEAD
 El heroe gana
 
 
 
+=======
+
+Un dragon se comio a tus padres
+Y te vas a la montaña para enfrentarle
+
+
+El dragon gana
+>>>>>>> 3dc41958fd1fbc10f1f5b46c7fb31d9ce3c66ba0
